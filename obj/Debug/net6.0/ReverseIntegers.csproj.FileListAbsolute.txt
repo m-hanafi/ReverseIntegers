@@ -1,0 +1,15 @@
+D:\C#\LeetCode\ReverseIntegers\obj\Debug\net6.0\ReverseIntegers.csproj.AssemblyReference.cache
+D:\C#\LeetCode\ReverseIntegers\obj\Debug\net6.0\ReverseIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LeetCode\ReverseIntegers\obj\Debug\net6.0\ReverseIntegers.AssemblyInfoInputs.cache
+D:\C#\LeetCode\ReverseIntegers\obj\Debug\net6.0\ReverseIntegers.AssemblyInfo.cs
+D:\C#\LeetCode\ReverseIntegers\obj\Debug\net6.0\ReverseIntegers.csproj.CoreCompileInputs.cache
+D:\C#\LeetCode\ReverseIntegers\bin\Debug\net6.0\ReverseIntegers.exe
+D:\C#\LeetCode\ReverseIntegers\bin\Debug\net6.0\ReverseIntegers.deps.json
+D:\C#\LeetCode\ReverseIntegers\bin\Debug\net6.0\ReverseIntegers.runtimeconfig.json
+D:\C#\LeetCode\ReverseIntegers\bin\Debug\net6.0\ReverseIntegers.dll
+D:\C#\LeetCode\ReverseIntegers\bin\Debug\net6.0\ReverseIntegers.pdb
+D:\C#\LeetCode\ReverseIntegers\obj\Debug\net6.0\ReverseIntegers.dll
+D:\C#\LeetCode\ReverseIntegers\obj\Debug\net6.0\refint\ReverseIntegers.dll
+D:\C#\LeetCode\ReverseIntegers\obj\Debug\net6.0\ReverseIntegers.pdb
+D:\C#\LeetCode\ReverseIntegers\obj\Debug\net6.0\ReverseIntegers.genruntimeconfig.cache
+D:\C#\LeetCode\ReverseIntegers\obj\Debug\net6.0\ref\ReverseIntegers.dll
