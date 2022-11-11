@@ -27,5 +27,25 @@ namespace ReverseIntegers
             }
             return rev; //return the reversed value      
         }
+
+        //Use stack to reverse the input
+        static int Reverse_2(int x)
+        {
+            string str = x.ToString();
+
+            Stack<string> stack_str = new Stack<string>();
+            foreach (char c in str)
+            {
+                stack_str.Push(c.ToString());
+            }
+
+            string rev = "";
+            foreach (var item in stack_str)
+            {
+                rev += item;
+            }
+            return int.Parse(rev);
+
+        }
     }    
 }
